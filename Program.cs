@@ -51,13 +51,18 @@
 //}
 
 
-int a;
-Console.WriteLine("Введите число : ");
-a = Convert.ToInt32(Console.ReadLine());
-if (a % 2 ==1 )
-{
-    Console.WriteLine("Число " + a + " Нечетное");
-}
-else{
-    Console.WriteLine("Число " + a + " Четное");
-}
+//int a;
+//Console.WriteLine("Введите число : ");
+//a = Convert.ToInt32(Console.ReadLine());
+//if (a % 2 ==1 )
+//{
+//    Console.WriteLine("Число " + a + " Нечетное");
+//}
+//else{
+//    Console.WriteLine("Число " + a + " Четное");
+//}
+
+
+//int n = Convert.ToInt32(Console.ReadLine());
+//for (int i= 0; i <= n; i+=2)
+//Console.Write(i + " ");
