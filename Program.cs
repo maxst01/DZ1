@@ -1,4 +1,5 @@
-﻿//internal class Program
+﻿// Задача 2
+//internal class Program
 //{
 //    private static void Main(string[] args)
 //       {
@@ -28,7 +29,7 @@
 //}
 
 
-
+// задача 4
 //internal class Program
 //{
 //    private static void Main(string[] args)
@@ -50,7 +51,7 @@
 //        }
 //}
 
-
+// Задача 6
 //int a;
 //Console.WriteLine("Введите число : ");
 //a = Convert.ToInt32(Console.ReadLine());
@@ -62,7 +63,7 @@
 //    Console.WriteLine("Число " + a + " Четное");
 //}
 
-
+// Задача 8
 //int n = Convert.ToInt32(Console.ReadLine());
 //for (int i= 0; i <= n; i+=2)
 //Console.Write(i + " ");
